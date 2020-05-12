@@ -68,6 +68,7 @@ input[type=text], input[type="email"], input[type="password"] {
   width: 100%;
   padding: 16px 31px;
     border: 1px solid #ccc;
+    
     border-radius: 4px;
     resize: vertical;
     font-weight: 700;
